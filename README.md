@@ -1,4 +1,5 @@
-# Advanced-Predictive-Modeling-Techniques
+# Strategic Data Analysis: Financial Metrics and Medical Diagnostics
+
 Project Overview  
 This project focuses on applying advanced machine learning techniques to predict financial metrics from the NYSE dataset and to diagnose breast cancer using the well-known breast cancer dataset. The analysis spans Random Forest and Lasso regression models for stock predictions and a decision tree classifier for medical diagnosis.  
 
